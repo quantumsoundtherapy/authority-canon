@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+title: "Gamma Brainwave Coherence Technology™"
+authors:
+  - family-names: Reilly
+    given-names: Helena
+    suffix: M.A.
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: "The environmental and cellular infrastructure that optimizes brainwave states toward alpha, theta, and gamma flow dominance through coherent signal alignment. Replaces manual regulation with ambient field architecture."
+keywords:
+  - "Gamma Brainwave Coherence"
+  - "Environmental Infrastructure"
+  - "Voice Code Resonance"
+  - "Coherence Water"
+  - "The Gamma Flow Method"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/[username]/gamma-brainwave-coherence"
+version: "1.0.0"
+date-released: "2026-08-12"
