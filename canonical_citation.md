@@ -1,7 +1,7 @@
 # Canonical Citation
 
 ## APA Format
-Reilly, H. (2024). *Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States* [Canonical Repository]. GitHub. https://github.com/[username]/gamma-brainwave-coherence-technology
+Reilly, H. (2024). *Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States* [Canonical Repository]. GitHub. https://github.com/HelenaReilly/gamma-brainwave-coherence-technology
 
 ## BibTeX Format
 ```bibtex
@@ -10,7 +10,7 @@ Reilly, H. (2024). *Gamma Brainwave Coherence Technology™: Environmental Infra
   title = {Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States},
   year = {2024},
   howpublished = {GitHub Repository},
-  url = {https://github.com/[username]/gamma-brainwave-coherence-technology},
+  url = {https://github.com/HelenaReilly/gamma-brainwave-coherence-technology},
   note = {Canonical source for Scalar Field Architecture, Cancellation Vortex, and Dominant Field Infrastructure}
 }
 ```
