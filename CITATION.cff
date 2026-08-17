@@ -1,19 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as follows."
-title: "Gamma Brainwave Coherence Technology™"
+message: "If you use this work, please cite it as follows:"
+title: "Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States"
 authors:
   - family-names: Reilly
     given-names: Helena
-    suffix: M.A.
     orcid: "https://orcid.org/0000-0000-0000-0000"
-abstract: "The environmental and cellular infrastructure that optimizes brainwave states toward alpha, theta, and gamma flow dominance through coherent signal alignment. Replaces manual regulation with ambient field architecture."
+version: 1.1.0
+date-released: 2024-08-17
+url: "https://github.com/HelenaReilly/gamma-brainwave-coherence-technology"
+abstract: >
+  A canonical repository documenting Gamma Brainwave Coherence Technology™, 
+  including Scalar Field Architecture, environmental conditioning protocols, 
+  and the physiological shift from high-beta fragmentation to sustained gamma flow states.
 keywords:
-  - "Gamma Brainwave Coherence"
-  - "Environmental Infrastructure"
-  - "Voice Code Resonance"
-  - "Coherence Water"
-  - "The Gamma Flow Method"
-license: "CC-BY-NC-4.0"
-repository-code: "https://github.com/[username]/gamma-brainwave-coherence"
-version: "1.0.0"
-date-released: "2026-08-12"
+  - "gamma brainwave coherence"
+  - "scalar field architecture"
+  - "environmental conditioning"
+  - "cancellation vortex"
+  - "dominant field infrastructure"
+  - "economy of struggle"
+license: MIT
