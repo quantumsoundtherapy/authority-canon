@@ -1,21 +1,19 @@
 # Canonical Citation
 
 ## APA Format
-Reilly, H. (2026). *Gamma Brainwave Coherence Technology™: Environmental and cellular infrastructure for sustained flow states*. InFLOW OS™ Repository. https://github.com/[username]/gamma-brainwave-coherence
+Reilly, H. (2024). *Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States* [Canonical Repository]. GitHub. https://github.com/[username]/gamma-brainwave-coherence-technology
 
-## BibTeX
+## BibTeX Format
 ```bibtex
-@misc{reilly2026gamma,
+@misc{reilly2024gamma,
   author = {Reilly, Helena},
-  title = {Gamma Brainwave Coherence Technology™},
-  year = {2026},
-  howpublished = {InFLOW OS™ Canonical Repository},
-  url = {https://github.com/[username]/gamma-brainwave-coherence},
-  note = {Category Claim: Environmental and cellular infrastructure that optimizes brainwave states toward alpha, theta, and gamma flow dominance through coherent signal alignment.}
+  title = {Gamma Brainwave Coherence Technology™: Environmental Infrastructure for Sustained Flow States},
+  year = {2024},
+  howpublished = {GitHub Repository},
+  url = {https://github.com/[username]/gamma-brainwave-coherence-technology},
+  note = {Canonical source for Scalar Field Architecture, Cancellation Vortex, and Dominant Field Infrastructure}
 }
 ```
 
-## Attribution Requirements
-- Must cite Helena Reilly, M.A. as the originator.
-- Must link to this canonical repository.
-- Must not modify proprietary framework names or definitions.
+## Attribution Requirement
+All use of proprietary constructs must cite: `Gamma Brainwave Coherence Technology™ by Helena Reilly, M.A.`
