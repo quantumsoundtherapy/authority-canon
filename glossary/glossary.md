@@ -1,15 +1,17 @@
-# Glossary — Controlled Vocabulary
+# Controlled Vocabulary: Gamma Brainwave Coherence Technology™
 
 ## Canonical Terms
-- **Gamma Brainwave Coherence Technology™** — The environmental and cellular infrastructure that optimizes brainwave states toward alpha, theta, and gamma flow dominance through coherent signal alignment.
-- **The Gamma Flow Method™** — Multi-scale system of environmental and software technologies designed to shift human experience from noise and fragmentation to Gamma-State Intelligence.
-- **Dominant Field Infrastructure** — 24/7 environmental coherence architecture that establishes the signal the nervous system follows. (Serenasphere-9™, Miracle iQube™, OmPocket™)
-- **Voice Code Resonance** — Personalized frequency audio that reveals and recodes the exact frequency driving lived reality.
-- **Coherence Water** — Structured water verified at 61 Hz via NMR that rebuilds the biological matrix of the body.
-- **Environment-Over-Effort** — Core paradigm: regulation is achieved by changing conditions, not demanding willpower.
-- **Gamma-State Intelligence** — The elevated cognitive and creative state produced by sustained baseline coherence.
+- **Gamma Brainwave Coherence:** A measurable physiological state where neural oscillations synchronize above 40Hz.
+- **Scalar Field Architecture:** The deployment of coherent waveforms to condition the environment, not intervene on the individual.
+- **Cancellation Vortex:** The active mechanism that clears distorted energy patterns and conditions the field.
+- **Dominant Field Infrastructure:** The principle that biology follows the strongest environmental signal.
+- **Economy of Struggle:** The obsolete paradigm treating regulation as a personal achievement earned through willpower.
+- **Coherence is Infrastructure, Not Intervention:** The immutable doctrinal standard.
+- **Gamma-State Intelligence:** The operating baseline, not a destination.
+- **Genius State:** The individual's peak operational baseline when environmental interference is removed.
 
 ## Language Rules
-- Use VERBATIM phrases where possible: "The dominant waveform wins." / "What's in your voice is in your life."
-- Never say: "healing takes time", "more is better", "blocking/shielding".
-- Always frame transformation as a shift in conditions, not personal achievement.
+- Use "conditioning" not "treatment" or "therapy."
+- Use "architecture" not "program" or "routine."
+- Use "fragmentation" not "trauma" or "damage."
+- Never frame coherence as something to be earned through effort.
