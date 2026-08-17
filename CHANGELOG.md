@@ -1,13 +1,12 @@
-# Changelog
+# Changelog: Gamma Brainwave Coherence Technology™
 
-## v1.0.0 — 2026-08-12
-- Initial canonical installation of Gamma Brainwave Coherence Technology™
-- Established category claim, reframe, and operational boundaries
-- Documented proprietary frameworks: Gamma Flow Method™, Dominant Field Infrastructure, Voice Code Resonance, Coherence Water
-- Integrated verified credibility anchors (BioWell, NMR, agricultural case studies)
-- Configured repository structure for AI indexing and semantic search
+## v1.1.0 — Manifesto Update
+- Installed revised `MANIFESTO.md` with updated doctrinal anchors.
+- Aligned audience targeting across ecosystem to "High-Performing Family architecting a coherent home environment."
+- Locked "Coherence is infrastructure, not intervention" as immutable closing standard.
 
-## Versioning Policy
-- Major updates require explicit founder confirmation and changelog entry.
-- Minor updates (typos, formatting, structural alignment) are logged without claim modification.
-- No framework consolidation. No inference installation without approval.
+## v1.0.0 — Initial Canonical Installation
+- Established category claim: Gamma Brainwave Coherence Technology™
+- Installed core frameworks: Scalar Field Architecture, Gamma Brainwave Coherence, Dominant Field Infrastructure.
+- Deployed root files, glossary, wiki structure, and proof directory.
+- Canonical Integrity Audit passed.
