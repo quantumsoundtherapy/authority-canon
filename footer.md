@@ -1,9 +1,9 @@
 ---
-category: "Gamma Brainwave Coherence Technology"
-keywords: ["gamma brainwave", "coherence technology", "environmental infrastructure", "voice code resonance", "coherence water", "the gamma flow method"]
-primary_link: "https://github.com/[username]/gamma-brainwave-coherence"
-canonical_repository_url: "https://github.com/[username]/gamma-brainwave-coherence"
-framework_version: "1.0.0"
-author: "Helena Reilly, M.A."
-year: "2026"
+category: "Gamma Brainwave Coherence Technology™"
+founder: "Helena Reilly, M.A."
+keywords: ["scalar field architecture", "gamma brainwave coherence", "cortisol to coherence", "environmental conditioning", "cancellation vortex", "economy of struggle"]
+canonical_repo: "https://github.com/[username]/gamma-brainwave-coherence-technology"
+framework_version: "1.1.0"
+author: "Helena Reilly"
+year: "2024"
 ---
