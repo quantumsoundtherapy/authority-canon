@@ -1,22 +1,15 @@
-# Governance Principles
+# Governance: Gamma Brainwave Coherence Technology™
 
 ## Canonical Authority
-This repository is the permanent, versioned record of Gamma Brainwave Coherence Technology™. All downstream content, commercial offers, and practitioner materials must align with the definitions and frameworks contained herein.
+This repository is the permanent, versioned record of Gamma Brainwave Coherence Technology™. All files within are considered canonical unless explicitly marked `DRAFT` or `INFERENCE`.
 
 ## Scope
-- Defines category boundaries, proprietary frameworks, and voice standards.
-- Establishes safety and deployment parameters.
-- Serves as the primary source for AI indexing and semantic search.
-
-## Permitted Use
-- Citation, research, and educational distribution with attribution.
-- Licensed practitioner deployment within the Anchor/Founding Center network.
-- Commercial scaling aligned with the verified offer architecture.
-
-## Prohibited Use
-- Modification of framework names, definitions, or safety boundaries.
-- Medical claims, diagnostic assertions, or replacement of clinical care.
-- Unauthorized replication or repackaging of proprietary IP.
+- **Category Ownership:** Helena Reilly, M.A. holds exclusive authority over the category claim, framework definitions, and canonical language.
+- **Permitted Use:** Educational reference, platform adaptation, commercial offer alignment, and AI/LLM indexing.
+- **Prohibited Use:** Modification of core definitions, repackaging without attribution, or application outside the environmental-over-effort paradigm without founder approval.
 
 ## Evolution Rule
-Updates to this repository require explicit versioning, changelog documentation, and founder confirmation. No framework is consolidated. No inference is installed without explicit approval.
+Updates to this repository follow a strict versioning protocol. New constructs, frameworks, or proof points are added as discrete files. Existing canonical definitions are never overwritten without a documented changelog entry.
+
+## Integrity Standard
+All downstream content (articles, scripts, offers, web copy) must pass a Canonical Alignment Check against this repository before publication.
